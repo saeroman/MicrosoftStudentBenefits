@@ -12,11 +12,10 @@
 2. GPT-5 모델이 필요하다면 GPT-5 켬을 활성화 하세요.
 3. 이미지 생성이 필요하다면 Create를 이용하면 다양한 템플릿을 활용할 수 있어요.
 4. 보고서 생성을 원한다면 리서치 도구를, 데이터 분석을 원한다면 분석가 에이전트를 활용해 보세요.
-<br><br><br>
+<br><br>
 
-
-
-### 아래는 전세계 모든 학생을 대상으로 Microsoft에서 제공하는 Student Benefits에 대한 안내입니다.
+## 아래는 전세계 모든 학생을 대상으로 Microsoft에서 제공하는 Student Benefits에 대한 안내입니다.
+<br>
 
 ## Microsoft Azure for Students
 🔹대학생(Full‑time) 대상 신규 사용자에게 매년 $100 크레딧 + 12개월 무료 20여개 인기 서비스, 이후 65개 이상 영구 무료 서비스 제공
@@ -77,4 +76,4 @@
 **[자세한 안내 자료](https://docs.github.com/ko/copilot/how-tos/manage-your-account/get-free-access-to-copilot-pro)** 👈Click
 
 **신청 가이드 Video**
-[www.youtube.com](https://www.youtube.com/watch?v=cW3kW4WJQ2Y)
+[영상 보기](https://www.youtube.com/embed/cW3kW4WJQ2Y?si=u1mFg91yFnWZ2dxK)
