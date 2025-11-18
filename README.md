@@ -1,17 +1,12 @@
 # Microsoft Student Benefits
 
-해커톤 기간 동안 아래의 계정을 활용해 Microsoft 365 Copilot을활용하세요. 😊
-
-🔹계정 및 암호 확인 링크  (행사 종료 후 비공개 전환)<br>
-🔹Microsoft 365 Copilot 주소 : https://m365.cloud.microsoft/chat
-
 <img width="1641" height="1035" alt="image" src="https://github.com/user-attachments/assets/6b3d8fff-ee83-40cc-9c3c-3d009c76c5c0" />
 
 1. 일반적인 목적으로 Copilot을 사용할 때는 '웹' 탭을 선택해서 사용하세요.
 2. GPT-5 모델이 필요하다면 GPT-5 켬을 활성화 하세요.
 3. 이미지 생성이 필요하다면 Create를 이용하면 다양한 템플릿을 활용할 수 있어요.
 4. 보고서 생성을 원한다면 리서치 도구를, 데이터 분석을 원한다면 분석가 에이전트를 활용해 보세요.
-<br><br>
+<br>
 
 ## 아래는 전세계 모든 학생을 대상으로 Microsoft에서 제공하는 Student Benefits에 대한 안내입니다.
 <br>
